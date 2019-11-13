@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <encryption_context/>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_nutr_app_existin.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_nutr_app_existin.user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-11-13 03:31:57</sys_created_on>
+        <sys_id>436cb7061cc90010964fb3d54bc69b9f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_nutr_app_existin.user</sys_name>
+        <sys_package display_value="app-existingbr" source="x_nutr_app_existin">7f5cbfca1c890010964fb3d54bc69b5c</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="app-existingbr">7f5cbfca1c890010964fb3d54bc69b5c</sys_scope>
+        <sys_update_name>sys_user_role_436cb7061cc90010964fb3d54bc69b9f</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-11-13 03:31:57</sys_updated_on>
+    </sys_user_role>
+</record_update>
